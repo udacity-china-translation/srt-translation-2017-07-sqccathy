@@ -8,7 +8,7 @@ Unit 4 will be a little different from previous units.
 
 3
 00:00:04,011 --> 00:00:08,209
-We are gonna start in right away by finishing the code for the search engine.
+We are gonna start in right away by finishing the code for our web search engine.
 
 4
 00:00:08,209 --> 00:00:10,145
@@ -32,7 +32,7 @@ where we can pass in a keyword and get a list of the pages that contain that key
 
 9
 00:00:22,411 --> 00:00:26,712
-We are also going to learn how the Internet works and the World Wide Web.
+We are also going to learn more about how the Internet works and the World Wide Web.
 
 10
 00:00:26,712 --> 00:00:32,478
@@ -76,11 +76,11 @@ But let's take a look and see if there is anything in the book that would help u
 
 20
 00:01:07,445 --> 00:01:12,029
-We could try to read the whole book, see if there is anything about index search in here,
+We could try to read the whole book, see if there is anything about indexed search in here,
 
 21
 00:01:12,029 --> 00:01:18,177
-or we could go to the index, and if we are lucky, the index will have what we have, it's got "index search".
+or we could go to the index, and if we are lucky, the index will have what we have, it's got "indexed search".
 
 22
 00:01:18,177 --> 00:01:23,061
@@ -92,7 +92,7 @@ and instead of needing to read the whole book to try to find what we are looking
 
 24
 00:01:26,662 --> 00:01:32,912
-if we can find the right page, we will find the section on index search right away.
+if we can find the right page, we will find the section on indexed search right away.
 
 25
 00:01:32,912 --> 00:01:35,345
