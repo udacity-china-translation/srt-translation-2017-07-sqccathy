@@ -420,7 +420,7 @@ Option D gives us a lot more structure.
 
 106
 00:05:24,000 --> 00:05:28,000
-By keeping all the URLs in a list, we can treat that as a list and do things with it
+By keeping all the URLs in the list, we can treat that as a list and do things with it
 
 107
 00:05:28,000 --> 00:05:31,000
